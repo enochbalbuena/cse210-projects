@@ -1,3 +1,5 @@
+/*Added the option to select breathe in and out duration.
+No random prompts or questions are selected in the reflecting activity until they have all been used.*/
 using System;
 
 namespace MindfulnessApp

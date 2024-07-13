@@ -1,0 +1,5 @@
+110
+SimpleGoal:Doing Exercise Daily,I will exercise 15 minutes every day,10,False
+EternalGoal:Be more kind,Being kind to others,50
+ChecklistGoal:Attend temple,Go to the temple every Friday,20,2,0,5
+ChecklistGoal:test checklist,,100,0,5,500
